@@ -10,3 +10,7 @@
 # Cuda 환경세팅은 아래 블로그 참고하기 
 - 주의할점 : 완전 똑같이 토씨하나 안틀리고 하기
 - https://codingalone.tistory.com/3
+# V2 파일 열기 (tensorflowBoard)
+![image](https://user-images.githubusercontent.com/76835313/142550844-19e34a71-a3fb-4ceb-bb0d-94fb0967dbaf.png)
+
+https://copycoding.tistory.com/88
