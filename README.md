@@ -18,3 +18,4 @@ https://copycoding.tistory.com/88
 # Install CUDA and Cudnn for Tensorflow-GPU on Ubuntu 20.04 LTS
 1. https://sanglee325.github.io/environment/install-CUDA-11-2/#cudnn-%EC%84%A4%EC%B9%98
 2. https://www.quora.com/How-do-I-open-a-bashrc-file
+3. https://towardsdatascience.com/installing-tensorflow-gpu-in-ubuntu-20-04-4ee3ca4cb75d
