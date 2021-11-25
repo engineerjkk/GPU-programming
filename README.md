@@ -19,3 +19,7 @@ https://copycoding.tistory.com/88
 1. https://sanglee325.github.io/environment/install-CUDA-11-2/#cudnn-%EC%84%A4%EC%B9%98
 2. https://www.quora.com/How-do-I-open-a-bashrc-file
 3. https://towardsdatascience.com/installing-tensorflow-gpu-in-ubuntu-20-04-4ee3ca4cb75d
+4. https://bskyvision.com/769
+
+# Pytorch
+1. https://greenmon.dev/2019/06/21/ubuntu-cuda.html
