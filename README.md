@@ -23,9 +23,6 @@ https://copycoding.tistory.com/88
 
 # Pytorch
 1. https://greenmon.dev/2019/06/21/ubuntu-cuda.html
-x-special/nautilus-clipboard
-copy
-file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-11-25%2017-41-20.png
-
+[Screenshot from 2021-11-25 17-41-20](https://user-images.githubusercontent.com/76835313/143407995-5356648b-3f4a-4f9b-8dda-9eb8443630c9.png)
 # Test MNIST
 https://medium.com/analytics-vidhya/lenet-with-tensorflow-a35da0d503df
