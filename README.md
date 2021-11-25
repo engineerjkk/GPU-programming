@@ -26,3 +26,7 @@ https://copycoding.tistory.com/88
 [Screenshot from 2021-11-25 17-41-20](https://user-images.githubusercontent.com/76835313/143407995-5356648b-3f4a-4f9b-8dda-9eb8443630c9.png)
 # Test MNIST
 https://medium.com/analytics-vidhya/lenet-with-tensorflow-a35da0d503df
+
+* appendix
+* https://technical-support.tistory.com/78
+* https://junn.net/archives/2466
