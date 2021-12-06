@@ -30,3 +30,9 @@ https://medium.com/analytics-vidhya/lenet-with-tensorflow-a35da0d503df
 * appendix
 * https://technical-support.tistory.com/78
 * https://junn.net/archives/2466
+ My GPU Spec!
+ ![Uploading ![Screenshot from 2021-12-06 14-15-36](https://user-images.githubusercontent.com/76835313/144791280-e1eceb0f-f9ea-4a5e-b0ca-061f8d0c6221.png)
+Screenshot from 2021-12-06 14-14-31.png…]()
+
+
+- 
