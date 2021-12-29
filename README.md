@@ -32,11 +32,11 @@ https://medium.com/analytics-vidhya/lenet-with-tensorflow-a35da0d503df
 * https://junn.net/archives/2466
  My GPU Spec!
  x-special/nautilus-clipboard
-copy
-file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-12-06%2014-14-31.png
-x-special/nautilus-clipboard
-copy
-file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-12-06%2014-15-36.png
+copy  
+file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-12-06%2014-14-31.png  
+x-special/nautilus-clipboard  
+copy  
+file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-12-06%2014-15-36.png  
 
 
 - 
