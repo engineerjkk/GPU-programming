@@ -28,8 +28,8 @@ https://copycoding.tistory.com/88
 https://medium.com/analytics-vidhya/lenet-with-tensorflow-a35da0d503df
 
 * appendix
-* https://technical-support.tistory.com/78
-* https://junn.net/archives/2466
+* [가상환경 리스트 확인](https://technical-support.tistory.com/78)
+* https://junn.net/archives/2466  
  My GPU Spec!
  x-special/nautilus-clipboard
 copy  
