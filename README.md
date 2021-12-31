@@ -29,10 +29,10 @@ https://medium.com/analytics-vidhya/lenet-with-tensorflow-a35da0d503df
 
 * appendix
 * [가상환경 리스트 확인](https://technical-support.tistory.com/78)
-* https://junn.net/archives/2466  
- My GPU Spec!
- x-special/nautilus-clipboard
-copy  
+* [Anaconda Tensorflow GPU 버전 설치 ](https://junn.net/archives/2466)    
+ My GPU Spec!  
+ x-special/nautilus-clipboard  
+copy    
 file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-12-06%2014-14-31.png  
 x-special/nautilus-clipboard  
 copy  
