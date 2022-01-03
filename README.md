@@ -40,3 +40,4 @@ file:///home/kangjunekoo/Pictures/Screenshot%20from%202021-12-06%2014-15-36.png
 
 
 - 
+[가상환경 만드는 방법과 가상환경 리스트 확인](https://snowdeer.github.io/python/2018/01/01/make-env-of-anaconda/)
