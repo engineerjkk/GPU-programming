@@ -1,6 +1,6 @@
-1.[CUDA CuDNN은 이거보고 하기](https://www.youtube.com/watch?v=mmp-hay0eeM)
-2.[Conda 설치](https://snowdeer.github.io/python/2018/01/01/make-env-of-anaconda/)
-3.[Pytorch 설치](https://pytorch.org/)
+1.[CUDA CuDNN은 이거보고 하기](https://www.youtube.com/watch?v=mmp-hay0eeM)  
+2.[Conda 설치](https://snowdeer.github.io/python/2018/01/01/make-env-of-anaconda/)  
+3.[Pytorch 설치](https://pytorch.org/)  
 
 
 ### V2 파일 열기 (tensorflowBoard)
